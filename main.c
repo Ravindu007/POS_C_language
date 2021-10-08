@@ -72,7 +72,7 @@ int main()
     printf("\n\n\n");
     printf("Your total cost is %.2f\n", cart);
 
-
+    printf("thank you and come again");
     return 0;
 }
 
